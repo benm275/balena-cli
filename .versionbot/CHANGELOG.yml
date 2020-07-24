@@ -1,4 +1,17 @@
 - commits:
+    - subject: Remove temporary v12 switches
+      hash: b99830fadaff33548b047698b8f5065d6a39ed17
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Scott Lowe <scott@balena.io>
+        signed-off-by: Scott Lowe <scott@balena.io>
+      author: Scott Lowe
+      nested: []
+  version: 12.9.2
+  date: 2020-07-24T13:57:50.893Z
+- commits:
     - subject: 'Convert `os initialize` to oclif, typescript'
       hash: b7c74598b2efec263679bc351cf39284555c3f90
       body: ''
